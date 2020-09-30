@@ -1,0 +1,2 @@
+# miniBlog
+A blogging Website
