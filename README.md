@@ -1,5 +1,5 @@
 # miniBlog
-A blogging Website. A user can create account to be a author in this blogging website .
+A blogging Website. The user can create an account to be an author on this blogging website .
 
 # Features
  * Authentication System
